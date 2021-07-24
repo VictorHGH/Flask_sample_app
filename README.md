@@ -34,7 +34,7 @@
  
     @app.route("/")    
         def hola_mundo():    
-           return "<h1>Hola Mundo</h1>"
+           return "\<h1>Hola Mundo\</h1>"
 
 - En la terminal exportamos la app mediante
 
