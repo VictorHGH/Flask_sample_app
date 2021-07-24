@@ -43,3 +43,9 @@
 - Si no queremos reiniciar el servidor cada vez, exportamos el entorno de development
 
 `$export FLASK_ENV=development`
+
+- Iniciar la aplicación
+
+`$flask run`
+
+- Abrir en el servidor localhost:5000
