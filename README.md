@@ -32,8 +32,8 @@
 
     app = Flask(__\_name_\__)
  
-    @app.route("/")
-        def hola_mundo():
+    @app.route("/")    
+        def hola_mundo():    
            return "<h1>Hola Mundo</h1>"
 
 - En la terminal exportamos la app mediante
